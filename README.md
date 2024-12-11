@@ -14,7 +14,8 @@ problems before they happen in real life.
 
 An interesting and entertaining introduction to simulation testing is the talk
 [Testing Distributed Systems w/ Deterministic Simulation from Strangeloop
-2014](https://www.youtube.com/watch?v=4fFDFbi3toc).
+2014](https://www.youtube.com/watch?v=4fFDFbi3toc). You can also listen to a
+[NotebookLM podcast](https://notebooklm.google.com/notebook/7b466821-e836-4836-9c46-eb280f385fcd/audio) of this repo for entertainment purposes.
 
 Gosim is an experimental project. Feedback, suggestions, and ideas are all very
 welcome. The underlying design feels quite solid, but the implemented and
